@@ -1,0 +1,14 @@
+/*global*/
+body{
+    font-family: arial;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+h2,h3{
+    text-align: center;
+}
+p{
+    line-height: 1.5;
+}
